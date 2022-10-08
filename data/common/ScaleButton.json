@@ -1,1 +1,0 @@
-{"type":"Button","props":{"y":0,"x":0,"stateNum":1,"presetID":1,"labelStrokeColor":"#4a4a4a","labelStroke":2,"labelSize":30,"labelColors":"#fbffe4,#fbffe4,#fbffe4","isPresetRoot":true,"anchorY":0.5,"anchorX":0.5},"compId":49,"child":[{"type":"Script","props":{"presetID":2,"runtime":"frame/ui/ScaleButton.ts"},"compId":50}],"loadList":[],"loadList3D":[]}

@@ -1,1 +1,0 @@
-{"type":"HBox","props":{"var":"lblBox","runtime":"frame/ui/TimerBox.ts","presetID":1,"isPresetRoot":true,"align":"middle"},"compId":63,"child":[{"type":"Label","props":{"text":"label","presetID":2,"name":"lblPrefix"},"compId":64},{"type":"Label","props":{"text":"label","presetID":3,"name":"lblTimer"},"compId":65}],"loadList":[],"loadList3D":[]}

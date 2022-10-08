@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":128,"height":128},"compId":2,"child":[{"type":"Box","props":{"width":200,"height":200,"bgColor":"#934444"},"compId":3},{"type":"Label","props":{"text":"pane 1","fontSize":40},"compId":4}],"loadList":[],"loadList3D":[]}
